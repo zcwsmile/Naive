@@ -84,14 +84,10 @@ using System.Xml;
 
 索引格式为：
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| ------ | ---- | ------- | ---- | ------- | ---- | ------ |
-| keyword | \t | index1 | \t | index2 | \t | ... |
+| 序号： | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 内容： | keyword | \t | index1 | \t | index2 | \t | ... |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 对于每个关键词，找出所有它出现过的doc结点的起始位置，存储这个偏移量
 
