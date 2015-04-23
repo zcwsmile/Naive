@@ -88,5 +88,10 @@ using System.Xml;
 ------  ----  -------  ----  -------  ----  ------
 keyword   \t   index1   \t    index2   \t    ...
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 对于每个关键词，找出所有它出现过的doc结点的起始位置，存储这个偏移量
 
