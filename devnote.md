@@ -1,6 +1,6 @@
 # Project Naive
 
-* just for learning purposes, just for fun *
+_ just for learning purposes, just for fun _
 
 ---
 
