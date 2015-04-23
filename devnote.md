@@ -1,7 +1,5 @@
 # Project Naive
 
-_ just for learning purposes, just for fun _
-
 ---
 
 ## 第一部分 草图
