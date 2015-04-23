@@ -1,4 +1,6 @@
-# Mini Search Engine Project
+# Project Naive
+
+* just for learning purposes, just for fun *
 
 ---
 
